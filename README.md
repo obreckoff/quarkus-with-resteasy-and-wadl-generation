@@ -1,0 +1,1 @@
+# quarkus-with-resteasy-and-wadl-generation
